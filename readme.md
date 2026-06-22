@@ -2,8 +2,6 @@
 
 **ClonerNews** — это современное веб-приложение для мониторинга технологических новостей, вакансий и обсуждений, созданное на базе официального Hacker News API.
 
-## 🔗 Репозиторий проекта
-[https://01.tomorrow-school.ai/git/tzhanel/clonernews](https://01.tomorrow-school.ai/git/tzhanel/clonernews)
 
 ## ✨ Основные цели и возможности (Objectives)
 
@@ -40,4 +38,3 @@
 3. Используйте фильтры для переключения категорий новостей.
 
 ---
-Авторы  Zhanel Tulegenova (#tzhanel) Dariya Kussainova (#dkussainov) Baktiyar Zhaksybay (#bzhaksyb)
